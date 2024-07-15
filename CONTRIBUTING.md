@@ -48,7 +48,7 @@ Para isso, você pode se inspirar nos exemplos no diretório [`community`](https
 ### 5) Adicione suas alterações à "staging area" 
 Utilize o comando `git add community/SEU_USERNAME.md` para adicionar sua alteração (nesse caso o arquivo markdown criado)  à "staging area" no Git.
 
-### 6) Crie um Commit
+### 6) Crie um Commit .
 Crie um commit e adicione a mensagem indicando a adição do seu perfil:
 ```bash
 git commit -m"feat: add SEU_USERNAME profile"
